@@ -1,0 +1,2 @@
+The Singleton reloads the scene when needed. I used it because I couldn't remeber how I did it with comand in an ealier project and it was pretty simple.
+The Observer updates the UI. This is useful so I don't have to check the varible evry frame
